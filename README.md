@@ -1,5 +1,5 @@
 ![Header](./github-header-image.png)
-<p style="color: darkcyan"><br>Hello!<br><br>My name is Miro Hintikka, and I'm a student studying ICT engineering at Metropolia University
+<p><br>$${\color{lightblue}Hello,}$$<br><br>My name is Miro Hintikka, and I'm a student studying ICT engineering at Metropolia University
 of Applied Sciences. I feel fortunate to have the opportunity to pursue my desired<br> major in software production,
 with a focus on machine learning and neural networks.</p>
 
