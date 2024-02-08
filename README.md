@@ -4,8 +4,9 @@ of Applied Sciences. I feel fortunate to have the opportunity to pursue my desir
 with a focus on machine learning and neural networks.</p>
 
 <br>
-![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder)
-
+<!-- HTML -->
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+<br>
 
 
 <!--
