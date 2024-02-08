@@ -3,6 +3,9 @@
 of Applied Sciences. I feel fortunate to have the opportunity to pursue my desired major in software production,
 with a focus on machine learning and neural networks.</p>
 
+<br>
+![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder)
+
 
 
 <!--
