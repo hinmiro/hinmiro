@@ -1,5 +1,6 @@
 ![Header](./dev_making.gif)
-<p><br>$\Large{{\color{black}Welcome\space to\space the\space \color{white}rabbit\space hole}}$ :rabbit2:<br><br>My name is Miro Hintikka, and I'm a student studying ICT engineering at Metropolia University
+<h1><br>$\Large{{\color{black}Welcome\space to\space the\space \color{white}rabbit\space hole}}$ :rabbit2:</h1>
+<br><br><p>My name is Miro Hintikka, and I'm a student studying ICT engineering at Metropolia University
 of Applied Sciences. I feel fortunate to have the opportunity to pursue my desired major in software production,
 with a focus on machine learning and neural networks.</p>
 
