@@ -5,7 +5,7 @@ with a focus on machine learning and neural networks.</p>
 
 <br>
 <!-- HTML -->
-<img align="center "src="https://readme-jokes.vercel.app/api" alt="Jokes Card" /><img src="https://profile-counter.glitch.me/hinmiro/count.svg"/>
+<img align="center" src="https://readme-jokes.vercel.app/api" alt="Jokes Card" /><img src="https://profile-counter.glitch.me/hinmiro/count.svg"/>
 <h2 >Technologies :hammer:</h2>
   <p align="center">
     <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>&nbsp;
