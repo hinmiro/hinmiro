@@ -5,8 +5,8 @@ with a focus on machine learning and neural networks.</p>
 
 <br>
 <!-- HTML -->
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
-<img src="https://profile-counter.glitch.me/hinmiro/count.svg"/>
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" /><img src="https://profile-counter.glitch.me/hinmiro/count.svg"/>
+
 <br>
 
 
