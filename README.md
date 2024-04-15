@@ -18,6 +18,10 @@ with a focus on machine learning and neural networks.</p>
     <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>&nbsp;
     <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
     <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   </p>
 <br>
 
@@ -35,6 +39,12 @@ with a focus on machine learning and neural networks.</p>
       <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
     </p>
   </p>
+
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hinmiro&show_icons=true&theme=aura&border_radius=10&rank_icon=percentile)
+
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hinmiro&hide_progress=true&theme=aura)
+
+
     
 
 
