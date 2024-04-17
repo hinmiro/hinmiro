@@ -44,6 +44,8 @@ with a focus on machine learning and neural networks.</p>
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hinmiro&hide_progress=true&theme=aura)
 
+  ![Activity](https://github-readme-activity-graph.vercel.app/graph?username=hinmiro&custom_title=%E0%BC%BC%20%E3%81%A4%20%E2%97%95%5F%E2%97%95%20%E0%BC%BD%E3%81%A4&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+
 
     
 
